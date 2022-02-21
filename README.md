@@ -46,6 +46,8 @@ print("no.of words",len(words))
 ```
 
 ### OUTPUT:
+![image](https://user-images.githubusercontent.com/94164665/154930990-206c8012-f7e8-49ac-9942-edb3ffcefff7.png)
+
 
 
 
